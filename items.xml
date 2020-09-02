@@ -1,0 +1,265 @@
+	<item id="39782" article="an" name="apron">
+		<attribute key="weight" value="060" />
+	</item>
+	
+	<item id="39901" article="an" name="broken longbow">
+		<attribute key="weight" value="500" />
+	</item>
+	
+	<item id="39879" article="an" name="capricious heart">
+		<attribute key="weight" value="075" />
+	</item>
+	
+	<item id="39883" article="an" name="distorted heart">
+		<attribute key="weight" value="075" />
+	</item>
+	
+	<item id="39881" article="an" name="hazardous heart">
+		<attribute key="weight" value="075" />
+	</item>
+	
+	<item id="39880" article="an" name="infernal heart">
+		<attribute key="weight" value="075" />
+	</item>
+	
+	<item id="39882" article="an" name="mould heart">
+		<attribute key="weight" value="075" />
+	</item>
+		
+	<item id="39884" article="an" name="vibrant heart">
+		<attribute key="weight" value="075" />
+	</item>	
+			
+	<item id="39886" article="an" name="capricious robe">
+		<attribute key="weight" value="180" />
+	</item>
+				
+	<item id="39890" article="an" name="distorted robe">
+		<attribute key="weight" value="180" />
+	</item>
+				
+	<item id="39888" article="an" name="hazardous robe">
+		<attribute key="weight" value="180" />
+	</item>
+					
+	<item id="39887" article="an" name="infernal robe">
+		<attribute key="weight" value="180" />
+	</item>
+	
+	<item id="39889" article="an" name="mould robe">
+		<attribute key="weight" value="180" />
+	</item>
+	
+	<item id="39777" article="an" name="crawler's essence">
+		<attribute key="weight" value="180" />
+	</item>	
+	
+	<item id="39730" article="an" name="crown (plant)">
+		<attribute key="weight" value="090" />
+	</item>	
+	
+	<item id="39718" article="an" name="cruelty's chest">
+		<attribute key="weight" value="180" />
+	</item>
+
+	<item id="39717" article="an" name="cruelty's claw">
+		<attribute key="weight" value="180" />
+	</item>
+
+	<item id="39812" article="an" name="figurine of cruelty">
+		<attribute key="weight" value="044" />
+	</item>		
+	
+	<item id="39814" article="an" name="figurine of greed">
+		<attribute key="weight" value="044" />
+	</item>
+
+	<item id="39813" article="an" name="figurine of hatred">
+		<attribute key="weight" value="044" />
+	</item>	
+
+	<item id="39811" article="an" name="figurine of malice">
+		<attribute key="weight" value="042" />
+	</item>		
+	
+	<item id="39748" article="an" name="figurine of megalomania">
+		<attribute key="weight" value="050" />
+	</item>	
+	
+	<item id="39747" article="an" name="figurine of spite">
+		<attribute key="weight" value="110" />
+	</item>	
+	
+	<item id="39904" article="an" name="fur shred">
+		<attribute key="weight" value="500" />
+	</item>
+	
+	<item id="39719" article="an" name="greed's arm">
+		<attribute key="weight" value="125" />
+	</item>	
+	
+	<item id="39731" article="an" name="hand">
+		<attribute key="weight" value="090" />
+	</item>
+
+	<item id="39742" article="an" name="hard-boiled hydra egg"> <!-- verificar -->
+		<attribute key="weight" value="2000" />
+	</item>	
+	
+	<item id="39732" article="an" name="head (brachiodemon)">
+		<attribute key="weight" value="090" />
+	</item>	
+	
+	<item id="39727" article="an" name="head (many faces)">
+		<attribute key="weight" value="060" />
+	</item>	
+	
+	<item id="39740" article="an" name="ivory carving">
+		<attribute key="weight" value="060" />
+	</item>	
+	
+	<item id="39807" article="an" name="jaws">
+		<attribute key="weight" value="170" />
+	</item>
+
+	<item id="39847" article="an" name="katex' blood">
+		<attribute key="weight" value="070" />
+	</item>
+
+	<item id="39902" article="an" name="lion cloak patch">
+		<attribute key="weight" value="500" />
+	</item>
+
+	<item id="39900" article="an" name="lion crest">
+		<attribute key="weight" value="200" />
+	</item>
+
+	<item id="39903" article="an" name="lion seal">
+		<attribute key="weight" value="500" />
+	</item>		
+	
+	<item id="39715" article="an" name="malice's horn">
+		<attribute key="weight" value="150" />
+	</item>	
+
+	<item id="39716" article="an" name="malice's spine">
+		<attribute key="weight" value="230" />
+	</item>
+
+	<item id="39723" article="an" name="megalomania's essence">
+		<attribute key="weight" value="110" />
+	</item>
+	
+	<item id="39720" article="an" name="megalomania's skull">
+		<attribute key="weight" value="100" />
+	</item>	
+	
+	<item id="39724" article="an" name="rod">
+		<attribute key="weight" value="090" />
+	</item>	
+
+	<item id="39733" article="an" name="roots">
+		<attribute key="weight" value="090" />
+	</item>
+
+	<item id="39721" article="an" name="spite's spirit">
+		<attribute key="weight" value="110" />
+	</item>
+
+	<item id="39850" article="an" name="srezz' eye">
+		<attribute key="weight" value="080" />
+	</item>
+
+	<item id="39729" article="an" name="telescope eye">
+		<attribute key="weight" value="030" />
+	</item>
+	
+	<item id="39848" article="an" name="utua's poison">
+		<attribute key="weight" value="080" />
+	</item>
+
+	<item id="39722" article="an" name="vial of hatred">
+		<attribute key="weight" value="110" />
+	</item>	
+	
+	<item id="39738" article="an" name="werehyaena nose">
+		<attribute key="weight" value="100" />
+	</item>	
+	
+	<item id="39739" article="an" name="werehyaena talisman">
+		<attribute key="weight" value="080" />
+	</item>
+
+	<item id="39849" article="an" name="yirkas' egg">
+		<attribute key="weight" value="250" />
+	</item>	
+	
+	<item id="39849" article="an" name="bracelet of strengthening">
+		<attribute key="weight" value="150" />
+	</item>		
+	
+	<item id="39816" article="a" name="brooch of embracement">
+		<attribute key="weight" value="080" />
+	</item>
+	
+	<item id="39815" article="a" name="diabolic skull">
+		<attribute key="weight" value="190" />
+	</item>
+	
+	<item id="39949" article="a" name="goromaphone">
+		<attribute key="weight" value="6660" />
+	</item>	
+	
+	<item id="39817" article="a" name="gruesome fan">
+		<attribute key="weight" value="170" />
+	</item>	
+	
+	<item id="39597" article="a" name="lion figurine">
+		<attribute key="weight" value="650" />
+	</item>		
+	
+	<item id="39594" article="a" name="raw watermelon tourmaline">
+		<attribute key="weight" value="150" />
+	</item>
+
+	<item id="39820" article="a" name="spectral horse tack">
+		<attribute key="weight" value="080" />
+	</item>	
+
+	<item id="39819" article="a" name="spectral horseshoe">
+		<attribute key="weight" value="120" />
+	</item>	
+
+	<item id="39820" article="a" name="spectral saddle">
+		<attribute key="weight" value="270" />
+	</item>	
+
+	<item id="39822" article="a" name="the skull of a beast">
+		<attribute key="weight" value="230" />
+	</item>
+
+	<item id="39596" article="a" name="watermelon tourmaline">
+		<attribute key="weight" value="130" />
+	</item>	
+
+	<item id="39595" article="a" name="watermelon tourmaline">
+		<attribute key="weight" value="110" />
+	</item>	
+
+	<item id="39801" article="a" name="white silk flower">
+		<attribute key="weight" value="300" />
+	</item>		
+
+	<item id="39818" article="a" name="diabolic skull">
+		<attribute key="weight" value="210" />
+	</item>	
+	
+	<item id="39856" article="a" name="bag you desire">
+		<attribute key="weight" value="150" />
+		<attribute key="description" value="It contains the most powerful artifacts from the depths of Zarganash's darkest realms" />
+	</item>	
+	
+	<item id="39996" article="a" name="red silk flower">
+		<attribute key="weight" value="300" />
+		<attribute key="description" value="The petals are made of silk, the buds and pistil of rubies. The werelions of the Darama Desert often use such flowers as love pledges." />
+	</item>	
